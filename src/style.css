@@ -155,10 +155,10 @@ main {
   color: rgba(39, 33, 66, 0.6);
   font-size: 16px;
   line-height: 20px;
-  margin-bottom: 10px;
+  margin-top: 10px;
 }
 .weather-forecast-icon {
-  font-size: 38px;
+  width: 34px;
   text-align: center;
 }
 .weather-forecast-temps {
